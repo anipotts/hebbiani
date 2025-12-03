@@ -1,0 +1,17 @@
+[
+  {
+    "question": "q2",
+    "criterion": "logical_coherence",
+    "p_value": 1.0
+  },
+  {
+    "question": "q1",
+    "criterion": "insightfulness",
+    "p_value": 1.0
+  },
+  {
+    "question": "q3",
+    "criterion": "verbatim_precision",
+    "p_value": 1.0
+  }
+]

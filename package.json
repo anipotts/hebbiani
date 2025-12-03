@@ -1,0 +1,25 @@
+{
+  "name": "hebbiani",
+  "version": "1.0.0",
+  "description": "> A local, research-grade playground for **hybrid retrieval**, **cross-encoder reranking**, and **late-interaction token matching** — inspired by Hebbia’s Matrix, built to learn how real production retrieval systems work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipotts/hebbiani.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anipotts/hebbiani/issues"
+  },
+  "homepage": "https://github.com/anipotts/hebbiani#readme",
+  "devDependencies": {
+    "@types/node": "^24.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
