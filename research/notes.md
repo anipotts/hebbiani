@@ -39,8 +39,7 @@
     - if job has high or low priority, and wants to use gpt 4o, it can make a license request and license grant will say you have to use xyz model, and maximizer uses the information theoretic maximum utilization of any rate limits
 
 - hallucinations often come from rertreiving from the wrong documents
-  - no one really cares about hallucinations, what people care about is when these agents fail from not having the right context or reading documents in the wrong order
 
-if the world was a computer system, i would want to live and breathe in the cache. that would be the most interesting space for me
+  - no one really cares about hallucinations, what people care about is when these agents fail from not having the right context or reading documents in the wrong order
 
 - value is way more percieved than actual (less concrete than people like to imagine)
